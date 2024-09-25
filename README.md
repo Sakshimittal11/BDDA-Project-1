@@ -1,4 +1,4 @@
-# BDDA-Project-1_SQL_Top Down- Amazon
+# SQL_Top Down- Amazon
 # Overview
 This project demonstrates the design and implementation of a relational database for an e-commerce system, modeled after a typical online shopping platform like Amazon. The database structure is crafted to efficiently manage various aspects of the system, including customer information, product inventory, orders, reviews, and vendor details. The project involves creating several interconnected tables to store and retrieve data related to the shopping, ordering, and reviewing processes on the platform.
 
